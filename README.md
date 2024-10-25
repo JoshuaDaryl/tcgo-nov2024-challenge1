@@ -1,2 +1,10 @@
+#Technical Requirements
+Any programming language of your choice
+
 # Challenge
-Find the two entries that sum to 2020; what do you get if you multiply them together?
+
+Using the expenses input file, find the two entries that sum to 2020; multiply those two entries together and return the result.
+
+
+# Criteria
+The winner is the first person to submit their code with the correct answer
